@@ -94,6 +94,17 @@ Batch 3 | 28 records
 
 ---
 
+## Screenshots
+
+### Spark Streaming Output
+![Spark Output](spark-output.png)
+
+### Kafka Producer — Live Orders
+![Kafka Producer](kafka-producer.png)
+
+### Kafka UI Dashboard
+![Kafka UI](kafka-ui.png)
+
 ## Project Structure
 
 ```
